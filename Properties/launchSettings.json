@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WindowsDirectoryPrinter": {
+      "commandName": "Project",
+      "commandLineArgs": "--printer \"Brother*\"\r\n--watchpath \"D:\\share\\TO-PRINT\"\r\n--printedpath \"D:\\share\\TO-PRINT\\PRINTED\""
+    }
+  }
+}
